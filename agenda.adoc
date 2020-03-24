@@ -1,45 +1,26 @@
-== Schedule / Agenda
+== Tentative Schedule / Agenda
 
-Tentative Agenda (to be confirmed)
-
-NOTE: All times are in UTC+1
-
-*Day 1 - Thursday 23rd April, 2020*
-
-09:00hrs - Welcome note (OGC & OS staff)
-
-09:15hrs - Goals and objectives (SWG Chair)
-
-09:30hrs - Introduction to the Draft OGC API - Tiles Specification (Editor)
-
-11:00hrs – Team-based work starts [define the problem/scope]
-
-12:30hrs - Lunch (non-hosted)
-
-13:30hrs - Resume [come up with multiple options]
-
-17:00hrs - Dinner (non-hosted)
-
-18:00hrs - Resume [select the preferred option]
-
-20:00hrs - Back-briefs from each team
-
-21:00hrs - Adjourn
-
-*Day 2 - Friday 24th April, 2020*
-
-08:00hrs - Goals and objectives (SWG Chair)
-
-08:30hrs - Resume team-based work [implement the preferred option]
-
-12:00hrs - Third back-briefs from each team [ "alignment report"]
-
-12:30hrs - Working Lunch [complete implementation of the preferred option]
-
-13:30hrs – Resume team-based work [implement the preferred option]
-
-15:30hrs – Show & Tell (Demonstration of clients accessing services)
-
-16:30hrs - Closing note (OGC & OS staff)
-
-17:00hrs - Close
+[cols="3,7",options="header",]
+|===
+|*Time* |*What*
+2+|*23 April 2020*
+|09:00-09:15 |Welcome & objectives
+|09:00-09:45 |Sprint programme & way of working
+| Break | 
+|09:45-10:30 |OGC API - Tiles draft spec
+|10:30-10:45 |OGC API - Common
+|10:45-11:15 |Experimentation brief
+|11:15-13:00 |Practical work
+|Break |
+|14:00-15:00 |“Stand up” - presenting status, needs, endpoints,....
+|15:00-17:00 |Practical work
+|17:00-17:30 |“Stand up”
+2+|*24 April 2020*
+|09:00-09:30 |Re-group - a short stand-up
+|10:00-12:00 |Practical work
+|12:00-13:00 |Stand up
+|13:00-15:00 |Lunch & practical work
+|15:00-16:00 |Stand up - i.e. open forum for people to report back
+|16:00-16:30 |Wrap-up 1: immediate lessons
+|16:30-17:00 |Wrap-up 2: thanks, goodbyes, next steps
+|===
