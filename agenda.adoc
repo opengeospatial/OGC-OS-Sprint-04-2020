@@ -1,0 +1,45 @@
+== Schedule / Agenda
+
+Tentative Agenda (to be confirmed)
+
+NOTE: All times are in UTC+1
+
+*Day 1 - Thursday 23rd April, 2020*
+
+09:00hrs - Welcome note (OGC & OS staff)
+
+09:15hrs - Goals and objectives (SWG Chair)
+
+09:30hrs - Introduction to the Draft OGC API - Tiles Specification (Editor)
+
+11:00hrs – Team-based work starts [define the problem/scope]
+
+12:30hrs - Lunch (non-hosted)
+
+13:30hrs - Resume [come up with multiple options]
+
+17:00hrs - Dinner (non-hosted)
+
+18:00hrs - Resume [select the preferred option]
+
+20:00hrs - Back-briefs from each team
+
+21:00hrs - Adjourn
+
+*Day 2 - Friday 24th April, 2020*
+
+08:00hrs - Goals and objectives (SWG Chair)
+
+08:30hrs - Resume team-based work [implement the preferred option]
+
+12:00hrs - Third back-briefs from each team [ "alignment report"]
+
+12:30hrs - Working Lunch [complete implementation of the preferred option]
+
+13:30hrs – Resume team-based work [implement the preferred option]
+
+15:30hrs – Show & Tell (Demonstration of clients accessing services)
+
+16:30hrs - Closing note (OGC & OS staff)
+
+17:00hrs - Close

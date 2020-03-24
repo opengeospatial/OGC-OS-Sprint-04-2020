@@ -1,0 +1,16 @@
+== Implementations
+
+[#table_implementation,reftext='{table-caption} {counter:table-num}']
+.Implementations
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Implementation | Type | Contact
+
+| https://app.swaggerhub.com/domains/UAB-CREAF/ogc-api-tiles/1.0.0[UAB CREAF implementation of OGC API - Tiles]
+| OGC API - Tiles
+| https://github.com/joanma747[Joan Maso]
+
+| TBA
+| TBA
+| TBA
+|===
