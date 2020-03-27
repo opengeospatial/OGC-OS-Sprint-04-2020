@@ -1,8 +1,9 @@
 == Tentative Schedule / Agenda
 
-[cols="3,7",options="header",]
+[cols="3,7,7a",options="header",]
 |===
 |*Time* (UTC+1) |*What* |*Who*
+
 3+|*Webinar (GotoMeeting) 16th April ?16:00 UTC+1*
 |allow 5 minutes settling time| |
 |15 minutes |OGC API - Tiles draft spec - include what to focus on; encourage them not to repeat Vector Tiles Pilot|Joan
@@ -13,15 +14,15 @@
 |09:00-09:15 |Welcome & objectives|Gobe? Michael? Peter?
 |09:15-10:00 |Demonstration from VTP2|???? (Gobe to find someone)
 |10:00-10:15 |Sprint programme & way of working|?
-|Break |
+|Break ||
 |10:30-14:00 |Practical work & lunch|
 |14:00-14:30 |Group telecons - outputs: issues / concerns|
 |14:30-16:30 |Practical work|including editorial group
 |16:30-17:30 |“Stand up”|facilitator: Peter
 3+|*24 April 2020*
 |09:00-09:30 |Re-group - a short stand-up|facilitator: Gobe
-|Break |
-|10:00-12:00 |Practical work
+|Break ||
+|10:00-12:00 |Practical work|
 |12:00-13:00 |Stand up|facilitator: Peter
 |13:00-15:00 |Lunch & practical work|
 |15:00-16:00 |Demonstrations & open forum|facilitator: Peter
