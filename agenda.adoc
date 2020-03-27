@@ -2,25 +2,29 @@
 
 [cols="3,7",options="header",]
 |===
-|*Time* |*What*
-2+|*23 April 2020*
-|09:00-09:15 |Welcome & objectives
-|09:00-09:45 |Sprint programme & way of working
-| Break | 
-|09:45-10:30 |OGC API - Tiles draft spec
-|10:30-10:45 |OGC API - Common
-|10:45-11:15 |Experimentation brief
-|11:15-13:00 |Practical work
+|*Time* (UTC+1) |*What* |*Who*
+3+|*Webinar (GotoMeeting) 16th April ?16:00 UTC+1*
+|allow 5 minutes settling time| |
+|15 minutes |OGC API - Tiles draft spec - include what to focus on; encourage them not to repeat Vector Tiles Pilot|Joan
+|15 minutes |OGC API - Common|?
+|10 minutes |questions|facilitator:
+|5 minutes |description of sprint|
+3+|*23 April 2020*
+|09:00-09:15 |Welcome & objectives|Gobe? Michael? Peter?
+|09:15-10:00 |Demonstration from VTP2|???? (Gobe to find someone)
+|10:00-10:15 |Sprint programme & way of working|?
 |Break |
-|14:00-15:00 |“Stand up” - presenting status, needs, endpoints,....
-|15:00-17:00 |Practical work
-|17:00-17:30 |“Stand up”
-2+|*24 April 2020*
-|09:00-09:30 |Re-group - a short stand-up
+|10:30-14:00 |Practical work & lunch|
+|14:00-14:30 |Group telecons - outputs: issues / concerns|
+|14:30-16:30 |Practical work|including editorial group
+|16:30-17:30 |“Stand up”|facilitator: Peter
+3+|*24 April 2020*
+|09:00-09:30 |Re-group - a short stand-up|facilitator: Gobe
+|Break |
 |10:00-12:00 |Practical work
-|12:00-13:00 |Stand up
-|13:00-15:00 |Lunch & practical work
-|15:00-16:00 |Stand up - i.e. open forum for people to report back
-|16:00-16:30 |Wrap-up 1: immediate lessons
-|16:30-17:00 |Wrap-up 2: thanks, goodbyes, next steps
+|12:00-13:00 |Stand up|facilitator: Peter
+|13:00-15:00 |Lunch & practical work|
+|15:00-16:00 |Demonstrations & open forum|facilitator: Peter
+|16:00-16:45 |Wrap-up 1: immediate lessons & next steps|Joan
+|16:45-17:00 |Wrap-up 2: thanks, goodbyes |Gobe?
 |===
