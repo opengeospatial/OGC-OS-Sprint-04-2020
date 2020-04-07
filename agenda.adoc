@@ -12,7 +12,14 @@
 |5 minutes |description of sprint|
 3+|*23 April 2020*
 |09:00-09:15 |Welcome & objectives|Gobe? Michael? Peter?
-|09:15-10:00 |Demonstration from VTP2|???? (Gobe to find someone)
+|09:15-10:00 
+a|
+Demonstration from VTP2:
+
+* Clemens Portele
+* TBA
+* TBA
+|???? (Gobe to invite VTP2 participants)
 |10:00-10:15 |Sprint programme & way of working|?
 |Break ||
 |10:30-14:00 |Practical work & lunch|
