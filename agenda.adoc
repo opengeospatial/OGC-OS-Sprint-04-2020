@@ -17,6 +17,7 @@ a|
 Demonstration from VTP2:
 
 * Clemens Portele
+* Jérôme Jacovella-St-Louis
 * TBA
 * TBA
 |???? (Gobe to invite VTP2 participants)
