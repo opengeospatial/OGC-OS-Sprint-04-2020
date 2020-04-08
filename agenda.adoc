@@ -4,7 +4,7 @@
 |===
 |*Time* (UTC+1) |*What* |*Who*
 
-3+|*Webinar (GotoMeeting) 16th April ?16:00 UTC+1*
+3+|*Webinar (GotoMeeting) 16th April at 16:00 UTC+1*
 |allow 5 minutes settling time| |
 |15 minutes |OGC API - Tiles draft spec - include what to focus on; encourage them not to repeat Vector Tiles Pilot|Joan
 |15 minutes |OGC API - Common|?
