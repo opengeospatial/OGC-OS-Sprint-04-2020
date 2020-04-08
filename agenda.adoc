@@ -7,7 +7,7 @@
 3+|*Webinar (GotoMeeting) 16th April at 16:00 UTC+1*
 |allow 5 minutes settling time| |
 |15 minutes |OGC API - Tiles draft spec - include what to focus on; encourage them not to repeat Vector Tiles Pilot|Joan
-|15 minutes |OGC API - Common|?
+|15 minutes |OGC API - Common| Chuck (Tentative)
 |10 minutes |questions|facilitator:
 |5 minutes |description of sprint|
 3+|*23 April 2020*
