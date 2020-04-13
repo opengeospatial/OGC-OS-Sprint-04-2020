@@ -5,11 +5,13 @@
 |*Time* (UTC+1) |*What* |*Who*
 
 3+|*Webinar (GotoMeeting) 16th April at 16:00 UTC+1*
-|allow 5 minutes settling time| |
-|15 minutes |OGC API - Tiles draft spec - include what to focus on; encourage them not to repeat Vector Tiles Pilot|Joan
-|15 minutes |OGC API - Common| Chuck (Tentative)
-|10 minutes |questions|facilitator:
-|5 minutes |description of sprint|
+|allow 2 minutes settling time| |
+|2 minutes| Welcome | Gobe Hobona
+|3 minutes| Motivation for the Sprint | Peter Parslow or Michael Gordon
+|15 minutes |OGC API - Tiles draft spec - include what to focus on; encourage them not to repeat Vector Tiles Pilot|Joan Maso
+|15 minutes |OGC API - Common| Chuck Heazel
+|5 minutes |Description of sprint| Gobe Hobona
+|20 minutes |Questions & Answers|
 3+|*23 April 2020*
 |09:00-09:15 |Welcome & objectives|Gobe? Michael? Peter?
 |09:15-10:00 
