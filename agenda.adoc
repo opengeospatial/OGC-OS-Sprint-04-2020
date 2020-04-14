@@ -6,24 +6,24 @@
 
 3+|*Webinar (GotoMeeting) 16th April at 16:00 UTC+1*
 |allow 2 minutes settling time| |
-|2 minutes| Welcome | Gobe Hobona
-|3 minutes| Motivation for the Sprint | Peter Parslow or Michael Gordon
-|15 minutes |OGC API - Tiles draft spec - include what to focus on; encourage them not to repeat Vector Tiles Pilot|Joan Maso
-|15 minutes |OGC API - Common| Chuck Heazel
+|2 minutes| Welcome | Gobe Hobona (OGC)
+|3 minutes| Motivation for the Sprint | Peter Parslow / Michael Gordon (Ordnance Survey)
+|15 minutes |OGC API - Tiles draft spec - include what to focus on; encourage them not to repeat Vector Tiles Pilot|Joan Maso (UAB - CREAF)
+|15 minutes |OGC API - Common| Chuck Heazel (Heazel Tech)
 |5 minutes |Description of sprint| Gobe Hobona
 |20 minutes |Questions & Answers|
 3+|*23 April 2020*
-|09:00-09:15 |Welcome & objectives|Gobe? Michael? Peter?
+|09:00-09:15 |Welcome & objectives|Gobe, Michael and Peter
 |09:15-10:00 
 a|
 Demonstration from VTP2:
 
-* Clemens Portele
-* Jérôme Jacovella-St-Louis
+* Clemens Portele (Interactive Instruments)
+* Jérôme Jacovella-St-Louis (Ecere)
+* Antonio Correas (Skymantics)
 * TBA
-* TBA
-|???? (Gobe to invite VTP2 participants)
-|10:00-10:15 |Sprint programme & way of working|?
+|facilitator: Gobe
+|10:00-10:15 |Sprint programme & way of working| Gobe
 |Break ||
 |10:30-14:00 |Practical work & lunch|
 |14:00-14:30 |Group telecons - outputs: issues / concerns|
