@@ -4,13 +4,15 @@
 
 * Link to be provided to registered participants only.
 
+*GitHub*
+
+* Public repo https://github.com/opengeospatial/OGC-OS-Sprint-04-2020
+
 *Gitter*
 
 * https://gitter.im/opengeospatial/OGC-OS-Sprint-04-2020
 
-*GitHub*
 
-* Public repo https://github.com/opengeospatial/OGC-OS-Sprint-04-2020
 
 
 
