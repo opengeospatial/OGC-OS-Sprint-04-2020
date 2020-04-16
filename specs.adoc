@@ -8,6 +8,8 @@ OGC API - Maps repository, https://github.com/opengeospatial/OGC-API-Maps
 
 OGC API - Common repository, https://github.com/opengeospatial/oapi_common
 
+OGC API - Common (PDF version), https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/blob/master/19-072.pdf
+
 OpenAPI, https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md
 
 https://htmlpreview.github.io/?https://github.com/opengeospatial/OGC-API-Tiles/blob/master/core/standard/OAPI_Tiles.html
