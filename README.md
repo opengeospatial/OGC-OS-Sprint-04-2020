@@ -17,6 +17,7 @@ This Github repository is for the OGC API – Tiles Code Sprint.
 * [Sprint Logistics](./logistics.adoc)
 * [Schedule/Agenda](./agenda.adoc)
 * [Implementations](./implementations.adoc)
+* [Datasets](./Shared_Datasets/README.md)
 * [Vector Tiles Pilot, Phase 2 engineering reports](./vtp2reports.adoc)
 * [Additional Resources](./additionalResources.adoc)
 
