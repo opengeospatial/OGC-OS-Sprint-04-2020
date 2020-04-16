@@ -25,8 +25,9 @@ Demonstration from VTP2:
 |facilitator: Gobe
 |10:00-10:15 |Sprint programme & way of working| Gobe
 |Break ||
-|10:30-14:00 |Practical work & lunch|
-|14:00-14:30 |Group telecons - outputs: issues / concerns|
+|10:30-13:30 |Practical work & lunch|
+|13:30-14:00 |Group telecons - outputs: issues / concerns| Groups: Map Tiles, Vector Tiles
+|14:00-14:30 |All-hands telecon: issues / concerns| All in the same telecon for Core/Common topics
 |14:30-16:30 |Practical work|including editorial group
 |16:30-17:30 |“Stand up”|facilitator: Peter
 3+|*24 April 2020*
