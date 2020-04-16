@@ -6,7 +6,7 @@
 
 *Gitter*
 
-* One persistent meeting room
+* https://gitter.im/opengeospatial/OGC-OS-Sprint-04-2020
 
 *GitHub*
 
