@@ -1,5 +1,17 @@
 == Sprint Logistics
 
-Gotomeeting details will be sent to registered participants.
+*Gotomeeting*
 
-Gitter channel (TBA).
+* Link to be provided to registered participants only.
+
+*Gitter*
+
+* One persistent meeting room
+
+*GitHub*
+
+* Public repo https://github.com/opengeospatial/OGC-OS-Sprint-04-2020
+
+
+
+
