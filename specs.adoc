@@ -4,8 +4,14 @@ OGC API - Tiles repository, https://github.com/opengeospatial/OGC-API-Tiles
 
 OGC API - Tiles preview, https://htmlpreview.github.io/?https://github.com/opengeospatial/OGC-API-Tiles/blob/master/core/standard/OAPI_Tiles.html
 
+OGC API - Maps repository, https://github.com/opengeospatial/OGC-API-Maps
+
 OGC API - Common repository, https://github.com/opengeospatial/oapi_common
 
 OpenAPI, https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md
 
 https://htmlpreview.github.io/?https://github.com/opengeospatial/OGC-API-Tiles/blob/master/core/standard/OAPI_Tiles.html
+
+== Related Specs
+
+Draft OGC Abstract Specification: Core Tiling Conceptual and Logical Models for 2D Euclidean Space, http://docs.opengeospatial.org/DRAFTS/19-014.html
