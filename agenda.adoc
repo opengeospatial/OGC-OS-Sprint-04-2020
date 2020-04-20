@@ -28,7 +28,7 @@ Demonstration from VTP2:
 |10:30-13:00 |Practical work & lunch|
 |13:00-13:30 | Map Tiles Group telecon - outputs: issues / concerns| Facilitator: Joan
 |13:30-14:00 | Vector Tiles Group telecon - outputs: issues / concerns| Facilitator: Michael
-|14:00-14:30 |All-hands telecon: issues / concerns| All in the same telecon for Core/Common topics. Facilitator: Chuck
+|14:00-14:30 |All-hands telecon: issues / concerns| All in the same telecon for Core/Common topics. Facilitator: Gobe
 |14:30-16:30 |Practical work|including editorial group
 |16:30-17:30 |“Stand up”|Facilitator: Peter
 3+|*24 April 2020*
