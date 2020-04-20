@@ -36,10 +36,10 @@ Mapbox Vector Tiles
 
 GeoJSON
 
-* WebMercatorQuad (GeoJSON, Attributes table, OneLayerPerTile) https://portal.ogc.org/files/?artifact_id=93070
-* WorldCRS84Quad (GeoJSON, Attributes table, OneLayerPerTile) https://portal.ogc.org/files* /?artifact_id=93071
-* WebMercatorQuad0 (GeoJSON, Embedded attributes, OneLayerPerTile), https://portal.ogc.org/files/?artifact_id=93069
+* WebMercatorQuad (GeoJSON, Embedded attributes, OneLayerPerTile), https://portal.ogc.org/files/?artifact_id=93069
 * WorldCRS84Quad (GeoJSON, Embedded attributes, OneLayerPerTile), https://portal.ogc.org/files/?artifact_id=93068
+* WebMercatorQuad (GeoJSON, Attributes table, OneLayerPerTile) https://portal.ogc.org/files/?artifact_id=93070
+* WorldCRS84Quad (GeoJSON, Attributes table, OneLayerPerTile) https://portal.ogc.org/files/?artifact_id=93071
 
 GNOSIS Map Tiles ( http://docs.opengeospatial.org/per/18-025.html#GMTSpecs )
 
