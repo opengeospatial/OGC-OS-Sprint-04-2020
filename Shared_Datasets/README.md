@@ -17,7 +17,7 @@ The files were created by harvesting tiles from multiple implementations of OGC 
 
 The following are additional GeoPackage files demonstrating various capabilities (e.g. multilayersupport). Any questions about the files should be directed to @jerstlouis :
 
-* Example-WebMercator, https://portal.ogc.org/files/?artifact_id=92057
+
 * Example-MultiLayer-CRS84Quad-embedded (Embedded attributes), https://portal.ogc.org/files/?artifact_id=92592
 * Example-MultiLayer-CRS84Quad (MultiLayer), https://portal.ogc.org/files/?artifact_id=92566
 * Example-MultiLayer-GlobalGrid (MultiLayer), https://portal.ogc.org/files/?artifact_id=92565
