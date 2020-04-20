@@ -15,16 +15,32 @@ The following are GeoPackage files containing vector tiles data (from the OGC Ve
 
 The files were created by harvesting tiles from multiple implementations of OGC API - Tiles.
 
-The following are additional GeoPackage files demonstrating various capabilities (e.g. multilayersupport). Any questions about the files should be directed to @jerstlouis :
+The following are additional GeoPackage files from Vector Tiles Pilot - Phase 2 demonstrating various capabilities (e.g. attributes table vs. embedded attributes, single vs. multiple layers per tiles, different encodings, R-Tree spatial indexes). 
+All examples contain Topographic Data Store profile of OpenStreetMap using Vector Tiles Extensions ( https://gitlab.com/imagemattersllc/ogc-vtp2/-/tree/master/extensions ), also including separate portrayal information in different styles, as well as two DTED Level 1 cells of Daraa, Syria (using tiled gridded coverage extension: http://docs.opengeospatial.org/is/17-066r1/17-066r1.html ). All tile matrix sets are described at http://maps.ecere.com/geoapi/tileMatrixSets .
+Any questions about the files should be directed to @jerstlouis :
 
+Mapbox Vector Tiles
 
-* Example-MultiLayer-CRS84Quad-embedded (Embedded attributes), https://portal.ogc.org/files/?artifact_id=92592
-* Example-MultiLayer-CRS84Quad (MultiLayer), https://portal.ogc.org/files/?artifact_id=92566
-* Example-MultiLayer-GlobalGrid (MultiLayer), https://portal.ogc.org/files/?artifact_id=92565
-* Example-MultiLayer-WebMercator (MultiLayer), https://portal.ogc.org/files/?artifact_id=92567
-* Example-MultiLayer-WorldMercator (MultiLayer), https://portal.ogc.org/files/?artifact_id=92568
+* WebMercatorQuad (Embedded attributes, MultiLayer), https://portal.ogc.org/files/?artifact_id=93067
+* WorldCRS84Quad (Embedded attributes, MultiLayer), https://portal.ogc.org/files/?artifact_id=92592
 
-* Example-SingleLayer-CRS84Quad (OneLaterPerTile), https://portal.ogc.org/files/?artifact_id=92570
-* Example-SingleLayer-GlobalGrid (OneLaterPerTile), https://portal.ogc.org/files/?artifact_id=92569
-* Example-SingleLayer-WebMercator (OneLaterPerTile), https://portal.ogc.org/files/?artifact_id=92571
-* Example-SingleLayer-WorldMercator (OneLaterPerTile), https://portal.ogc.org/files/?artifact_id=92572
+* WebMercatorQuad (Attributes table, MultiLayer), https://portal.ogc.org/files/?artifact_id=92567
+* WorldCRS84Quad (Attributes table, MultiLayer), https://portal.ogc.org/files/?artifact_id=92566
+* WorldMercatorWGS84Quad (Attributes table, MultiLayer), https://portal.ogc.org/files/?artifact_id=92568
+* GNOSISGlobalGrid (Attributes table, MultiLayer), https://portal.ogc.org/files/?artifact_id=92565
+
+* WebMercatorQiad (Attributes table, OneLayerPerTile), https://portal.ogc.org/files/?artifact_id=92571
+* WorldCRS84Quad (Attributes table, OneLayerPerTile), https://portal.ogc.org/files/?artifact_id=92570
+* WorldMercatorWGS84Quad (Attributes table, OneLayerPerTile), https://portal.ogc.org/files/?artifact_id=92572
+* GNOSISGlobalGrid (Attributes table, OneLayerPerTile), https://portal.ogc.org/files/?artifact_id=92569
+
+GeoJSON
+
+* WebMercatorQuad (GeoJSON, Attributes table, OneLayerPerTile) https://portal.ogc.org/files/?artifact_id=93070
+* WorldCRS84Quad (GeoJSON, Attributes table, OneLayerPerTile) https://portal.ogc.org/files* /?artifact_id=93071
+* WebMercatorQuad0 (GeoJSON, Embedded attributes, OneLayerPerTile), https://portal.ogc.org/files/?artifact_id=93069
+* WorldCRS84Quad (GeoJSON, Embedded attributes, OneLayerPerTile), https://portal.ogc.org/files/?artifact_id=93068
+
+GNOSIS Map Tiles ( http://docs.opengeospatial.org/per/18-025.html#GMTSpecs )
+
+* GNOSISGlobalGrid (GNOSIS Map Tiles, OneLayerPerTile) https://portal.ogc.org/files/?artifact_id=93072
