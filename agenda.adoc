@@ -22,22 +22,22 @@ Demonstration from VTP2:
 * Jérôme Jacovella-St-Louis (Ecere)
 * Antonio Correas (Skymantics)
 * TBA
-|facilitator: Gobe
+|Facilitator: Gobe
 |10:00-10:15 |Sprint programme & way of working| Gobe
 |Break ||
 |10:30-13:00 |Practical work & lunch|
-|13:00-13:30 | Map Tiles Group telecon - outputs: issues / concerns|
-|13:30-14:00 | Vector Tiles Group telecon - outputs: issues / concerns| 
-|14:00-14:30 |All-hands telecon: issues / concerns| All in the same telecon for Core/Common topics
+|13:00-13:30 | Map Tiles Group telecon - outputs: issues / concerns| Facilitator: Joan
+|13:30-14:00 | Vector Tiles Group telecon - outputs: issues / concerns| Facilitator: Michael
+|14:00-14:30 |All-hands telecon: issues / concerns| All in the same telecon for Core/Common topics. Facilitator: Chuck
 |14:30-16:30 |Practical work|including editorial group
-|16:30-17:30 |“Stand up”|facilitator: Peter
+|16:30-17:30 |“Stand up”|Facilitator: Peter
 3+|*24 April 2020*
-|09:00-09:30 |Re-group - a short stand-up|facilitator: Gobe
+|09:00-09:30 |Re-group - a short stand-up|Facilitator: Gobe
 |Break ||
 |10:00-12:00 |Practical work|
-|12:00-13:00 |Stand up|facilitator: Peter
+|12:00-13:00 |Stand up|Facilitator: Clara and Peter
 |13:00-15:00 |Lunch & practical work|
-|15:00-16:00 |Demonstrations & open forum|facilitator: Peter
+|15:00-16:00 |Demonstrations & open forum|Facilitator: Peter
 |16:00-16:45 |Wrap-up 1: immediate lessons & next steps|Joan
-|16:45-17:00 |Wrap-up 2: thanks, goodbyes |Gobe?
+|16:45-17:00 |Wrap-up 2: thanks, goodbyes |Gobe
 |===
