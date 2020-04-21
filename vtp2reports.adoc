@@ -4,6 +4,6 @@ Vector Tiles Pilot, Phase 2 (VTP2) is an OGC project that has been experimenting
 
 This page offers links to the draft engineering reports produced by the project.
 
-* https://portal.ogc.org/files/?artifact_id=92605[OGC Vector Tiles Pilot 2: Summary Engineering Report]
-* https://portal.ogc.org/files/?artifact_id=92991[OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering Report]
-* https://portal.ogc.org/files/?artifact_id=92993[OGC Vector Tiles Pilot 2: Tile Set Metadata Engineering Report]
+* https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/blob/master/19-088.pdf[OGC Vector Tiles Pilot 2: Summary Engineering Report]
+* https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/blob/master/19-084.pdf[OGC Vector Tiles Pilot 2: Vector Tiles Filtering Language Engineering Report]
+* https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/blob/master/19-082.pdf[OGC Vector Tiles Pilot 2: Tile Set Metadata Engineering Report]
