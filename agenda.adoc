@@ -13,7 +13,7 @@
 |5 minutes |Description of sprint| Gobe Hobona
 |20 minutes |Questions & Answers|
 3+|*23 April 2020*
-|09:00-09:15 |Welcome & objectives|Gobe, Michael and Peter
+|09:00-09:15 |Welcome & objectives|Gobe and Michael
 |09:15-10:00 
 a|
 Demonstration from VTP2:
