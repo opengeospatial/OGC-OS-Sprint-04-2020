@@ -1,5 +1,7 @@
 == Additional Resources
 
+The recording of the Pre-event Webinar is available at https://portal.ogc.org/files/?artifact_id=93017
+
 A list of previous OGC sprints and hackathons is available at https://www.ogc.org/projects/initiatives/ogcsprints
 
 Datasets, https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/blob/master/Shared_Datasets/README.md
