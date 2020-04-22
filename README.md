@@ -21,5 +21,6 @@ This Github repository is for the OGC API – Tiles Code Sprint.
 * [Vector Tiles Pilot, Phase 2 engineering reports](./vtp2reports.adoc)
 * [Questionnaire (please complete it before the sprint)](https://docs.google.com/forms/d/1_PwM5eUuhuMB7yCxuHVWZ660VE7Alti4QM7VR6CUlDE)
 * [Additional Resources](./additionalResources.adoc)
+* [Frequently Asked Questions (FAQs)](./FAQ.adoc)
 
 The sprint will begin on April 23rd, 2020 at 09:00am UK time, and end on April 24th, 2020 at 17:00 (5 pm). The UK will be in daylight savings time, so these times are UTC+1. Ordnance Survey is sponsoring this event.
