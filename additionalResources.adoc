@@ -7,3 +7,5 @@ A list of previous OGC sprints and hackathons is available at https://www.ogc.or
 Datasets, https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/blob/master/Shared_Datasets/README.md
 
 OS Open Zoomstack, https://www.ordnancesurvey.co.uk/business-government/products/open-zoomstack
+
+Vector Tiles Pilot Phase 2 Videos, https://www.youtube.com/playlist?list=PLQsQNjNIDU84L3xCmbhdHdxR_ztIrwiVQ
