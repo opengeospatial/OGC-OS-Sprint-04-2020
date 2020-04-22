@@ -1,5 +1,18 @@
 == Implementations
 
+=== Documentation
+
+[#table_documentation,reftext='{table-caption} {counter:table-num}']
+.Documentation
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Implementation | Type | Contact
+
+| https://github.com/cholmes/ogc-api-tiles-quickstart/blob/master/README.md[OGC API - Tiles Quickstart Guide]
+| Documentation
+| https://github.com/cholmes[Chris Holmes]
+|===
+
 === Services
 
 [#table_implementation,reftext='{table-caption} {counter:table-num}']
