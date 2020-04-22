@@ -9,3 +9,5 @@ Datasets, https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/blob/master/Sh
 OS Open Zoomstack, https://www.ordnancesurvey.co.uk/business-government/products/open-zoomstack
 
 Vector Tiles Pilot Phase 2 Videos, https://www.youtube.com/playlist?list=PLQsQNjNIDU84L3xCmbhdHdxR_ztIrwiVQ
+
+Quickstart Guide, https://github.com/cholmes/ogc-api-tiles-quickstart/blob/master/README.md
