@@ -1,0 +1,13 @@
+== Frequently Asked Questions (FAQs)
+
+*Q: Will the Pre-event Webinar be recorded?*
+
+The recording of the Pre-event Webinar is now listed on the Additional Resources page of the Github repo https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/blob/master/additionalResources.adoc
+
+*Q: Will it be a complete development project or we have to solve the problem?*
+
+A: Development and testing of the OGC API - Tiles specification.
+
+*Q: What examples exist of servers that have already implemented the draft OGC API - Tiles specification?*
+
+A: Examples of implementations are listed at https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/blob/master/implementations.adoc
