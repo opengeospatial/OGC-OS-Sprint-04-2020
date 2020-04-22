@@ -23,7 +23,7 @@ Demonstration from VTP2 &#10036; :
 * Clemens Portele (Interactive Instruments)
 * Jérôme Jacovella-St-Louis (Ecere)
 * Antonio Correas (Skymantics)
-* TBA
+
 |Facilitator: Gobe
 |10:00-10:15 |Sprint programme & way of working &#10036; | Gobe
 |Break ||
