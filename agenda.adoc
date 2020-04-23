@@ -1,5 +1,7 @@
 == Tentative Schedule / Agenda
 
+All times on the agenda are in UTC+1 (London time).
+
 &#10036; means that the session will be held in Meeting Room 1 (Gotomeeting).
 
 [cols="3,7,7a",options="header",]
