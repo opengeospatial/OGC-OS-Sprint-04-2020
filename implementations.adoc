@@ -14,7 +14,7 @@
 
 | https://github.com/opengeospatial/OGC-API-Tiles/tree/master/QuickGuide[All Quickstart Guides]
 | Documentation
-| https://github.com/joanma747 [Joan Maso]
+| https://github.com/joanma747[Joan Maso]
 |===
 
 === Services
