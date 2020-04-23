@@ -96,8 +96,8 @@
 |===
 |Implementation | Type | Contact
 
-| https://github.com/ghobona/ets-ogcapi-tiles10[OGC API - Tiles ETS (derived from OGC API - Features ETS)]
+| https://github.com/opengeospatial/ets-ogcapi-tiles10[OGC API - Tiles ETS (derived from OGC API - Features ETS)]
 | Executable Test Suite
-| https://github.com/ghobona[Gobe Hobona]
+| https://github.com/ghobona[Gobe], https://github.com/lgoltz[Lyn], https://github.com/keshav-nangare[Keshav], https://github.com/dstenger[Dirk]
 
 |===
