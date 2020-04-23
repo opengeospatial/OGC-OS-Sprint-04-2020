@@ -10,4 +10,7 @@ OS Open Zoomstack, https://www.ordnancesurvey.co.uk/business-government/products
 
 Vector Tiles Pilot Phase 2 Videos, https://www.youtube.com/playlist?list=PLQsQNjNIDU84L3xCmbhdHdxR_ztIrwiVQ
 
-Quickstart Guide, https://github.com/opengeospatial/OGC-API-Tiles/tree/master/QuickGuide
+Quickstart Guides
+
+* https://github.com/opengeospatial/OGC-API-Tiles/tree/master/QuickGuide
+* https://github.com/cholmes/ogc-api-tiles-quickstart/blob/master/README.md
