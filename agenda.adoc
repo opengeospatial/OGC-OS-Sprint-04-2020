@@ -34,7 +34,12 @@ Demonstration from VTP2 &#10036; :
 |13:30-14:00 | Vector Tiles Group telecon - outputs: issues / concerns &#10036; | Facilitator: Michael https://global.gotomeeting.com/join/693869741[GTM1]
 |14:00-14:30 |All-hands telecon: issues / concerns &#10036; | All in the same telecon for Core/Common topics. Facilitator: Gobe https://global.gotomeeting.com/join/693869741[GTM1]
 |14:30-16:30 |Practical work|https://global.gotomeeting.com/join/693869741[(Vector Tiles GTM)] https://www4.gotomeeting.com/join/332537477[(Map Tiles GTM)]
-|16:30-17:30 |“Stand up” &#10036; |Facilitator: Peter https://global.gotomeeting.com/join/693869741[GTM1]
+|16:30-17:30 
+a|“Stand up” &#10036; :
+
+* Brief demo by https://github.com/notthatbreezy[Chris Brown]
+
+|Facilitator: Peter https://global.gotomeeting.com/join/693869741[GTM1]
 3+|*24 April 2020*
 |09:00-09:30 |Re-group - a short stand-up &#10036; |Facilitator: Gobe
 |Break ||
