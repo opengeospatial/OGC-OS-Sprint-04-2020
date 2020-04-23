@@ -11,6 +11,10 @@
 | https://github.com/cholmes/ogc-api-tiles-quickstart/blob/master/README.md[OGC API - Tiles Quickstart Guide]
 | Documentation
 | https://github.com/cholmes[Chris Holmes]
+
+| https://github.com/opengeospatial/OGC-API-Tiles/tree/master/QuickGuide[All Quickstart Guides]
+| Documentation
+| https://github.com/joanma747 [Joan Maso]
 |===
 
 === Services
