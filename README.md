@@ -20,6 +20,7 @@ This Github repository is for the OGC API – Tiles Code Sprint.
 * [Datasets](./Shared_Datasets/README.md)
 * [Vector Tiles Pilot, Phase 2 engineering reports](./vtp2reports.adoc)
 * [Questionnaire (please complete it before the sprint)](https://docs.google.com/forms/d/1_PwM5eUuhuMB7yCxuHVWZ660VE7Alti4QM7VR6CUlDE)
+* [What is everybody going to be working on?](https://github.com/opengeospatial/OGC-OS-Sprint-04-2020/issues/3)
 * [Additional Resources](./additionalResources.adoc)
 * [Frequently Asked Questions (FAQs)](./FAQ.adoc)
 
