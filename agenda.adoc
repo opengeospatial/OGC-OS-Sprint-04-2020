@@ -27,11 +27,11 @@ Demonstration from VTP2 &#10036; :
 |Facilitator: Gobe https://global.gotomeeting.com/join/693869741[GTM1]
 |10:00-10:15 |Sprint programme & way of working &#10036; | Gobe https://global.gotomeeting.com/join/693869741[GTM1]
 |Break ||
-|10:30-13:00 |Practical work & lunch| https://global.gotomeeting.com/join/693869741[Vector Tiles]
+|10:30-13:00 |Practical work & lunch| https://global.gotomeeting.com/join/693869741[(Vector Tiles GTM)]
 |13:00-13:30 | Map Tiles Group telecon - outputs: issues / concerns &#10036; | Facilitator: Joan https://global.gotomeeting.com/join/693869741[GTM1]
 |13:30-14:00 | Vector Tiles Group telecon - outputs: issues / concerns &#10036; | Facilitator: Michael https://global.gotomeeting.com/join/693869741[GTM1]
 |14:00-14:30 |All-hands telecon: issues / concerns &#10036; | All in the same telecon for Core/Common topics. Facilitator: Gobe https://global.gotomeeting.com/join/693869741[GTM1]
-|14:30-16:30 |Practical work|https://global.gotomeeting.com/join/693869741[Vector Tiles]
+|14:30-16:30 |Practical work|https://global.gotomeeting.com/join/693869741[(Vector Tiles GTM)]
 |16:30-17:30 |“Stand up” &#10036; |Facilitator: Peter https://global.gotomeeting.com/join/693869741[GTM1]
 3+|*24 April 2020*
 |09:00-09:30 |Re-group - a short stand-up &#10036; |Facilitator: Gobe
