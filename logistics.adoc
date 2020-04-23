@@ -2,7 +2,7 @@
 
 *Gotomeeting*
 
-** Meeting Room 1 (GTM1) https://global.gotomeeting.com/join/693869741 
+** Meeting Room 1 (GTM1) https://portal.ogc.org/files/?artifact_id=93076
 ** Meeting Room 2 (GTM2) https://portal.ogc.org/files/?artifact_id=93101
 
 *GitHub*
