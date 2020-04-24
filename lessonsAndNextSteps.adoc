@@ -8,9 +8,35 @@
 ** Use leaflet for maps and tiles
 ** Use swagger.ui for the API document
 ** It could be good that OGC provides some nice representation for conformance classes that go directly to the sections of the documents that describe that.
+*** Clemens: the conformance class URIs already redirect to the definition of the conformance class in the document. See, e.g., http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/core
 ** This is going to make data much more visible on the web!!.
+* The creation of a multicollection could be considered a process. Collections can be the result of other processes that can be combined into other processes [https://gist.github.com/jerstlouis/9eedee30da7e3debef91a08bcb55653c]
+* Apply the tile approach to a process execution document will allow to parallel processing distributed in tiles 
+* .../tiles can be used with STAC and we can add it to any link or asset exposed to get
+* Other TMS
+** EPSG:27700 was demostrated. We saw the \tileMatrixSets\... in action and the return of the description a TMS that is not one of the 8 in the Annex.
+** Jerome St-Louis (Ecere): TMS description table  e.g. http://maps.ecere.com/geoapi/tileMatrixSets/GNOSISGlobalGrid , and limits table  http://maps.ecere.com/geoapi/collections/vtp/Daraa2/tiles/WebMercatorQuad
+* The standard has improved in preparation for the sprint
+** Some grammar/typos corrected during the sprint
+** Is the core ready to release?
+** What are the extensions that need to be pushed forward?
+* Initial Excutable test is available
+* How long takes to do basic capability
+** Depends on the tools available but 24h are enough to have something running.
+*** All the necessary additional documents take time to be generated in an automatic way based on the data. (90/90 rule). This is part of creating a product that can be considered operational
 
+* Virtual stripts are more difficult to organize. How to recreate the atmosphere of a physical event?
+** A week long strint with less telcos?
+** Shorter breaks with short telco in between?
+** How to stimulate participation of "shy" people
 
-== Next Steps
-
+== Next Steps for the innovation side
 * We have seen implementations of multiple dimensions (time, elevation). This demostrates the need for an extension for time and elevation. Immediate accion should be to add this to the list of needed extensions.
+* Process.
+** We should work with the WPS people to present Jerome approach. There are more formal ways of doing processes (https://app.swaggerhub.com/domains/UAB-CREAF/ogc-api-process/1.0.0). The solution adopted need to support chaining of processes.
+** The actual proposal is that a multicollection tile is also simple process
+
+== Next Steps on the standards side
+* Can we release the cores? (map core and tiles core)?. We need to move it forward.
+** We need to produre annex A. LETS DO THAT!
+* Mature some of the extensions

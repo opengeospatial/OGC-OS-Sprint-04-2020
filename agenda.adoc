@@ -52,7 +52,7 @@ a|Demonstrations & open forum &#10036;
 * Demo by https://github.com/robinhoutmeyers[Robin Houtmeyers (Hexagon Geospatial)]
 * Demo by https://github.com/jerstlouis[Jérôme Jacovella-St-Louis (Ecere)]
 * Demo by https://github.com/NuriaJulia[Núria Julià Selvas and Joan Masó (UAB - CREAF)]
-* Demo by https://github.com/geospatial-jeff[Jeff Albrecht]
+* Demo by https://github.com/geospatial-jeff[Jeff Albrecht (Arturo AI)]
 
 |Facilitator: Peter https://global.gotomeeting.com/join/693869741[GTM1]
 |16:00-16:45 |Wrap-up 1: immediate lessons & next steps &#10036; |Joan https://global.gotomeeting.com/join/693869741[GTM1]
