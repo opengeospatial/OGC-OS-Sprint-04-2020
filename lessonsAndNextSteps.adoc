@@ -1,0 +1,16 @@
+= Immediate Lessons and Next Steps
+
+== Immediate Lessons 
+
+* The HTML representations of resources are more powerful that I have anticipated. 
+* Imaginative ways of showing features, maps and tiles are emerging
+** Use geojson.io for geojson output
+** Use leaflet for maps and tiles
+** Use swagger.ui for the API document
+** It could be good that OGC provides some nice representation for conformance classes that go directly to the sections of the documents that describe that.
+** This is going to make data much more visible on the web!!.
+
+
+== Next Steps
+
+* We have seen implementations of multiple dimensions (time, elevation). This demostrates the need for an extension for time and elevation. Immediate accion should be to add this to the list of needed extensions.
