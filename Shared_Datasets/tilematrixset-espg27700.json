@@ -1,0 +1,46 @@
+{
+  "identifier" : "tilematrixset-espg27700",
+  "title" : "tilematrixset-espg27700",
+  "supportedCRS" : "urn:ogc:def:crs:EPSG::27700",
+  "tileMatrices" : [ {
+    "identifier" : "0",
+    "scaleDenominator" : 1395089.285714286,
+    "matrixWidth" : 1,
+    "matrixHeight" : 1,
+    "tileWidth" : 256,
+    "tileHeight" : 256,
+    "topLeftCorner" : [ 500000.0, 300000.0 ]
+  }, {
+    "identifier" : "1",
+    "scaleDenominator" : 697544.642857143,
+    "matrixWidth" : 2,
+    "matrixHeight" : 2,
+    "tileWidth" : 256,
+    "tileHeight" : 256,
+    "topLeftCorner" : [ 500000.0, 300000.0 ]
+  }, {
+    "identifier" : "2",
+    "scaleDenominator" : 348772.3214285715,
+    "matrixWidth" : 4,
+    "matrixHeight" : 4,
+    "tileWidth" : 256,
+    "tileHeight" : 256,
+    "topLeftCorner" : [ 500000.0, 300000.0 ]
+  }, {
+    "identifier" : "3",
+    "scaleDenominator" : 174386.16071428574,
+    "matrixWidth" : 8,
+    "matrixHeight" : 8,
+    "tileWidth" : 256,
+    "tileHeight" : 256,
+    "topLeftCorner" : [ 500000.0, 300000.0 ]
+  }, {
+    "identifier" : "4",
+    "scaleDenominator" : 87193.08035714287,
+    "matrixWidth" : 16,
+    "matrixHeight" : 16,
+    "tileWidth" : 256,
+    "tileHeight" : 256,
+    "topLeftCorner" : [ 500000.0, 300000.0 ]
+  } ]
+}
