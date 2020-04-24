@@ -52,6 +52,10 @@
 | OGC API - Tiles
 | https://github.com/aaime[Andrea Aime]
 
+| https://azavea.github.io/franklin/[Franklin] - Documentation & https://github.com/azavea/franklin[GitHub] Code
+| STAC, OGC API - Tiles, Features
+| https://github.com/notthatbreezy[Chris Brown]
+
 | TBA
 | TBA
 | TBA
