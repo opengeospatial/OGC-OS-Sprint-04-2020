@@ -91,6 +91,10 @@
 | OGC API - Tiles
 | https://github.com/Lestark728[Logan Stark]
 
+| https://www.hexagongeospatial.com/products/luciad-portfolio[Hexagon - Luciad Client]
+| OGC API - Tiles
+| https://github.com/robinhoutmeyers[Robin Houtmeyers]
+
 | TBA
 | TBA
 | TBA
