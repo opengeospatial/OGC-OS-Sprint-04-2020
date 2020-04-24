@@ -48,6 +48,7 @@ a|“Stand up” &#10036; :
 |15:00-16:00 
 a|Demonstrations & open forum &#10036; 
 
+* Demo by https://github.com/notthatbreezy[Chris Brown (Azavea)]
 * Demo by https://github.com/robinhoutmeyers[Robin Houtmeyers (Hexagon Geospatial)]
 * Demo by https://github.com/jerstlouis[Jérôme Jacovella-St-Louis (Ecere)]
 * Demo by https://github.com/NuriaJulia[Núria Julià Selvas and Joan Masó (UAB - CREAF)]
