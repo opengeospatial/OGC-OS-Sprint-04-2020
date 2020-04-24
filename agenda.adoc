@@ -37,7 +37,7 @@ Demonstration from VTP2 &#10036; :
 |16:30-17:30 
 a|“Stand up” &#10036; :
 
-* Brief demo by https://github.com/notthatbreezy[Chris Brown]
+* Brief demo by https://github.com/notthatbreezy[Chris Brown (Azavea)]
 
 |Facilitator: Peter https://global.gotomeeting.com/join/693869741[GTM1]
 3+|*24 April 2020*
@@ -45,7 +45,12 @@ a|“Stand up” &#10036; :
 |Break ||
 |10:00-13:00 |Practical work|
 |13:00-15:00 |Lunch & practical work|
-|15:00-16:00 |Demonstrations & open forum &#10036; |Facilitator: Peter https://global.gotomeeting.com/join/693869741[GTM1]
+|15:00-16:00 
+a|Demonstrations & open forum &#10036; 
+
+* Demo by https://github.com/robinhoutmeyers[Robin Houtmeyers (Hexagon Geospatial)]
+
+|Facilitator: Peter https://global.gotomeeting.com/join/693869741[GTM1]
 |16:00-16:45 |Wrap-up 1: immediate lessons & next steps &#10036; |Joan https://global.gotomeeting.com/join/693869741[GTM1]
 |16:45-17:00 |Wrap-up 2: thanks, goodbyes &#10036; |Gobe https://global.gotomeeting.com/join/693869741[GTM1]
 |===
