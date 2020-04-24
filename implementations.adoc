@@ -52,6 +52,10 @@
 | OGC API - Tiles
 | https://github.com/aaime[Andrea Aime]
 
+| https://github.com/geopython/pygeoapi/pull/419[pygeoapi implementation of OGC API - Tiles (draft PR)]
+| OGC API - Tiles
+| https://github.com/francbartoli[Francesco Bartoli]
+
 | TBA
 | TBA
 | TBA
