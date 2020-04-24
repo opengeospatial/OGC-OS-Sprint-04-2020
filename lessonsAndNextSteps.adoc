@@ -8,9 +8,17 @@
 ** Use leaflet for maps and tiles
 ** Use swagger.ui for the API document
 ** It could be good that OGC provides some nice representation for conformance classes that go directly to the sections of the documents that describe that.
+*** Clemens: the conformance class URIs already redirect to the definition of the conformance class in the document. See, e.g., http://www.opengis.net/spec/ogcapi-features-1/1.0/conf/core
 ** This is going to make data much more visible on the web!!.
+* The creation of a multicollection could be considered a process. Collections can be the result of other processes that can be combined into other processes [https://gist.github.com/jerstlouis/9eedee30da7e3debef91a08bcb55653c]
+* Apply the tile approach to a process execution document will allow to parallel processing distributed in tiles 
+* .../tiles can be used with STAC and we can add it to any link or asset exposed to get
+* EPSG:27700 was demostrated. We saw the \tileMatrixSets\... in action and the return of the description a TMS that is not one of the 8 in the Annex.
 
+* Vitual stripts are more difficult to organize. How to recreate the atmosphere of a physical event. 
 
 == Next Steps
 
 * We have seen implementations of multiple dimensions (time, elevation). This demostrates the need for an extension for time and elevation. Immediate accion should be to add this to the list of needed extensions.
+* We should work with the WPS people to present Jerome approach. There are more formal ways of doing processes (https://app.swaggerhub.com/domains/UAB-CREAF/ogc-api-process/1.0.0). The solution adopted need to support chaining of processes.
+** The actual proposal is that a multicollection tile is also simple process. 
