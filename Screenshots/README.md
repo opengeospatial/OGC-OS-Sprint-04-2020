@@ -1,6 +1,10 @@
 ## Screenshots
 
-This folder shows screenshots of various implementations.
+This folder shows screenshots of implementations on:
+
+* Hexagon Geospatial - [LuciadLightspeed](https://www.hexagongeospatial.com/products/luciad-portfolio/luciadlightspeed)
+* Ecere - [GNOSIS Map Server](http://ecere.ca/gnosis/)
+
 
 ### OGC API - Tiles on LuciadLightspeed by Hexagon Geospatial
 
