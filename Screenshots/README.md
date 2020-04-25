@@ -8,17 +8,17 @@ This folder shows screenshots of implementations on:
 
 ### OGC API - Tiles on LuciadLightspeed by Hexagon Geospatial
 
-### OGC API - Tiles EPSG:27700 TileMatrixSet
+### EPSG:27700 TileMatrixSet
 
 ![LuciadLightspeed OGC API - Tiles EPSG:27700 TileMatrixSet](./Hexagon/Luciad_ogc_api_tiles_epsg27700_tilematrixset_screenshot.png)
 
 Image contains Ordnance Survey data © Crown copyright and database rights 2020
 
-### OGC API - Tiles Time and Altitude Dimensions
+### Time and Altitude Dimensions
 
 ![LuciadLightspeed OGC API - Tiles Time and Altitude Dimensions](./Hexagon/Luciad_ogc_api_tiles_time_and_altitude_dimensions_screenshot.png)
 
-### OGC API - Tiles Time Dimension
+### Time Dimension
 
 ![LuciadLightspeed OGC API - Tiles Time Dimension](./Hexagon/Luciad_ogc_api_tiles_time_dimension_screenshot.png)
 
