@@ -1,20 +1,36 @@
 ## Screenshots
 
-This folder will hold screenshots of the implementations.
+This folder shows screenshots of various implementations.
+
+### OGC API - Tiles on LuciadLightspeed by Hexagon Geospatial
+
+### OGC API - Tiles EPSG:27700 TileMatrixSet
+
+![LuciadLightspeed OGC API - Tiles EPSG:27700 TileMatrixSet](./Hexagon/Luciad_ogc_api_tiles_epsg27700_tilematrixset_screenshot.png)
+
+Image contains Ordnance Survey data © Crown copyright and database rights 2020
+
+### OGC API - Tiles Time and Altitude Dimensions
+
+![LuciadLightspeed OGC API - Tiles Time and Altitude Dimensions](./Hexagon/Luciad_ogc_api_tiles_time_and_altitude_dimensions_screenshot.png)
+
+### OGC API - Tiles Time Dimension
+
+![LuciadLightspeed OGC API - Tiles Time Dimension](./Hexagon/Luciad_ogc_api_tiles_time_dimension_screenshot.png)
 
 ### Ecere's 3D client driving tile-based contours generation process on GNOSIS Map Server
 
 #### Worldwide elevation contours at 500 meters (vector tiles)
 
-![Tiled Distributed/Client-driven Process Workflow - Elevation Contours (World)](ecere-tiles-process-contours-world.png)
+![Tiled Distributed/Client-driven Process Workflow - Elevation Contours (World)](./Ecere/ecere-tiles-process-contours-world.png)
 
 #### Worldwide elevation contours at 500 meters in the Himalayas (vector tiles)
 
-![Tiled Distributed/Client-driven Process Workflow - Elevation Contours (Himalayas)](ecere-tiles-process-contours-himalayas.png)
+![Tiled Distributed/Client-driven Process Workflow - Elevation Contours (Himalayas)](./Ecere/ecere-tiles-process-contours-himalayas.png)
 
 #### Daraa, Syria elevation contours at 250 and 50 meters (vector tiles)
 
-![Ecere Tiled Distributed/Client-driven Process Workflow - Elevation Contours (Daraa)](ecere-tiles-process-contours-daraa.png)
+![Ecere Tiled Distributed/Client-driven Process Workflow - Elevation Contours (Daraa)](./Ecere/ecere-tiles-process-contours-daraa.png)
 
 #### Sample process execution
 
