@@ -84,3 +84,12 @@ Five ways this could be used:
 - POST to root /tiles (using process or collection(s) specified in JSON) to retrieve tiles template and tileMatrixSetLinks
 - POST to /collections to create new _virtual collection_ (for most intents and purposes, same as normal collection)
 - GET /collections/{collectionID}/sourceExecution to retrieve execution document from virtual collection
+
+
+### OGC API - Tiles with OpenLayers
+
+![OGC API - Tiles in OpenLayers](./OpenLayers/map-tiles.gif)
+
+The [draft pull request](https://github.com/openlayers/openlayers/pull/10963) adds support for an `OGCMapTile` source for OpenLayers.  This works with services that implement the map tiles portion of the spec provided that they make their metadata (tiles info, tile matrix set definitions, etc.) [CORS-friendly](https://enable-cors.org/).  In addition, services should be available via HTTPS to avoid being blocked by browsers due to mixed content.  (Unfortunately, resources like http://schemas.opengis.net/tms/1.0/json/examples/WebMercatorQuad.json satisfy neither of these conditions.)
+
+After the spec has settled a bit, this and support for vector tiles will be available in a release of the library.

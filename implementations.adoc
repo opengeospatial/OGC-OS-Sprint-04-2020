@@ -95,6 +95,10 @@
 | OGC API - Tiles
 | https://github.com/robinhoutmeyers[Robin Houtmeyers]
 
+| https://github.com/openlayers/openlayers/pull/10963[OpenLayers]
+| OGC API - Tiles
+| https://github.com/tschaub[Tim Schaub]
+
 | TBA
 | TBA
 | TBA
