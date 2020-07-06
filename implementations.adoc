@@ -78,7 +78,7 @@
 | OGC API - Tiles
 | https://github.com/jj0hns0n[Jeffrey Johnson]
 
-| http://ogc-vtp2.s3.us-east-2.amazonaws.com/index.html[GeoSolutions client (Vector Tiles Pilot 2, D104 deliverable)]
+| http://demo.vtp2.geo-solutions.it/mapstore/index.html[GeoSolutions client (Vector Tiles Pilot 2, D104 deliverable)]
 | OGC API - Tiles
 | https://github.com/aaime[Andrea Aime]
 
